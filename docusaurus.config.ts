@@ -15,10 +15,10 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://ai-handbook.hanzalakhan.com',
+  url: 'https://hanzalakhan010.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ai-handbook/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: '30 Days of ML',
-              to: '/docs/90-days-of-ml/intro',
+              to: '/docs/days-of-ml/intro',
             },
             {
               label: 'Generative AI',
