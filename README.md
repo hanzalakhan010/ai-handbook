@@ -1,41 +1,16 @@
-# Website
+# AI Handbook
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Installation
+A comprehensive learning journey through Machine Learning and Generative AI, documented and built by **Hanzala Khan**.
 
-```bash
-yarn
-```
+This website serves as a personal handbook and guide, covering a 30-day Machine Learning sprint and deep dives into Generative AI concepts, LLMs, and practical implementations.
 
-## Local Development
+**Live Site:** [https://hanzalakhan010.github.io/ai-handbook/](https://hanzalakhan010.github.io/ai-handbook/)
 
-```bash
-yarn start
-```
+**Repository:** [https://github.com/hanzalakhan010/ai-handbook](https://github.com/hanzalakhan010/ai-handbook)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Features
 
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- **30 Days of ML:** A structured path through the fundamentals of Machine Learning.
+- **Generative AI:** In-depth exploration of Large Language Models, Diffusion Models, and more.
+- **Practical Guides:** Hands-on code examples and project implementations.
