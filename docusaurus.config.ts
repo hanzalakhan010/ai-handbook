@@ -91,7 +91,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/hanzalakhan010',
+          href: 'https://github.com/hanzalakhan010/90daysof_ml',
           label: 'GitHub',
           position: 'right',
         },
